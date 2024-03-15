@@ -1,1 +1,2 @@
-Файл для чтения и записи
+File for riding and writing
+

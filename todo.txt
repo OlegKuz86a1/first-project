@@ -1,2 +1,2 @@
-1. Пройти пару уроков по Git.
-2. Сделать несколько заданий **Git**
+1. Take a couple of lessons on Git.
+2. Do some tasks **Git**
